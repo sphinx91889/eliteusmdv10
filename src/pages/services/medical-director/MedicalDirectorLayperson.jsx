@@ -37,7 +37,7 @@ export default function MedicalDirectorLayperson() {
       <PageHero 
         title="Medical Director for Non-Medical Professionals" 
         subtitle="Expert Medical Oversight for Layperson-Owned Healthcare Practices"
-        backgroundImage="https://images.pexels.com/photos/3846035/pexels-photo-3846035.jpeg"
+        backgroundImage="https://images.pexels.com/photos/1181534/pexels-photo-1181534.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
       />
 
       <section className="py-16 bg-white">
