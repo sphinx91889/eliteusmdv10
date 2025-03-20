@@ -143,7 +143,7 @@ export default function Navbar() {
             <Link to="/locations" className={linkClasses}>Locations</Link>
             <Link to="/resources" className={linkClasses}>Resources</Link>
             <a 
-              href="tel:8778114331" 
+              href="tel:8776650654" 
               className={`${linkClasses} flex items-center font-semibold`}
             >
               <FaPhone className="mr-2" /> 1 (877) 665-0654
@@ -263,10 +263,10 @@ export default function Navbar() {
               </Link>
 
               <a 
-                href="tel:8778114331" 
+                href="tel:8776650654" 
                 className="text-primary-dark text-xl py-2 border-b flex items-center justify-center"
               >
-                <FaPhone className="mr-2" /> (877) 811-4331
+                <FaPhone className="mr-2" /> (877) 665-0654
               </a>
 
               <Link 
