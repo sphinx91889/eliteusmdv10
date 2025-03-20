@@ -22,8 +22,8 @@ export default function Contact() {
               className="w-16 h-16 mx-auto mb-4"
             />
             <h3 className="text-xl font-semibold mb-2">Our Address</h3>
-            <p className="text-gray-600">5</p>
-            <p className="text-gray-600">CA</p>
+            <p className="text-gray-600">6210 Wilshire Blvd Ste 208, #527</p>
+            <p className="text-gray-600">Los Angeles, CA 90048</p>
           </div>
 
           <div className="text-center p-6 bg-white rounded-lg shadow-sm">
