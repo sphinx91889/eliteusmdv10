@@ -33,7 +33,7 @@ export default function Contact() {
               className="w-16 h-16 mx-auto mb-4"
             />
             <h3 className="text-xl font-semibold mb-2">Our Phone</h3>
-            <p className="text-gray-600">(800) 555-5555</p>
+            <p className="text-gray-600">1 (877) 665-0654</p>
           </div>
 
           <div className="text-center p-6 bg-white rounded-lg shadow-sm">
