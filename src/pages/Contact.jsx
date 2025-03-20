@@ -22,8 +22,8 @@ export default function Contact() {
               className="w-16 h-16 mx-auto mb-4"
             />
             <h3 className="text-xl font-semibold mb-2">Our Address</h3>
-            <p className="text-gray-600">1611 S. Catalina Ave Suite L75</p>
-            <p className="text-gray-600">Redondo Beach, CA 90277</p>
+            <p className="text-gray-600">5</p>
+            <p className="text-gray-600">CA</p>
           </div>
 
           <div className="text-center p-6 bg-white rounded-lg shadow-sm">
@@ -33,7 +33,7 @@ export default function Contact() {
               className="w-16 h-16 mx-auto mb-4"
             />
             <h3 className="text-xl font-semibold mb-2">Our Phone</h3>
-            <p className="text-gray-600">(877) 811-4331</p>
+            <p className="text-gray-600">(800) 555-5555</p>
           </div>
 
           <div className="text-center p-6 bg-white rounded-lg shadow-sm">
