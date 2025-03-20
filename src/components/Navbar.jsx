@@ -146,7 +146,7 @@ export default function Navbar() {
               href="tel:8778114331" 
               className={`${linkClasses} flex items-center font-semibold`}
             >
-              <FaPhone className="mr-2" /> 1(877)665-0654
+              <FaPhone className="mr-2" /> 1 (877) 665-0654
             </a>
             <Link 
               to="/contact" 
