@@ -50,7 +50,7 @@ export default function Footer() {
                 <FaEnvelope className="mr-2" /> info@eliteusmd.com
               </p>
               <p className="flex items-center">
-                <FaMapMarkerAlt className="mr-2" /> Serving All 50 States - Providing GFE (Good Faith Exams) Services in: CA, TX, FL, NY, NV, AZ
+                <FaMapMarkerAlt className="mr-2" /> Serving All 50 States
               </p>
             </div>
           </div>
